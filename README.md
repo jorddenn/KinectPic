@@ -2,7 +2,7 @@
 
 
 Usage:
-1.  Install Zadig 2.1.0 https://github.com/pbatard/libwdi/releases/download/b658/zadig-2.1.0.exe (The  ost recent version will give an error)
+1.  Install Zadig 2.1.0 https://github.com/pbatard/libwdi/releases/download/b658/zadig-2.1.0.exe (The most recent version will give an error)
 2.  Connect Kinect
 3.  Open Zadig -> Options -> List All Devcies
 4.  Select Microsoft Kinect Camera from the drop down
